@@ -1,2 +1,12 @@
-# LLM-Routing-Optimization
-Built a data-driven optimization framework for selecting and routing queries across multiple large language models. Applied statistical evaluation and budget-constrained optimization to improve model selection efficiency while maintaining response quality on benchmark datasets.
+# LLM Routing Optimization
+
+## Overview
+Developed an optimization framework to route prompts across 33 large language models based on cost and performance metrics. Evaluated budget-constrained routing policies to maximize response quality while minimizing inference costs.
+
+## Key Results
+- Evaluated 33 LLMs
+- Analyzed cost-quality tradeoffs
+- Identified efficient model pools under budget constraints
+
+## Project Report
+See Project_Report.pdf for methodology, experiments, and results.
